@@ -1,4 +1,4 @@
-# Knowledge-Based-Recommendation  
+# Project 2 - Knowledge-Based-Recommendation  
   
 **Introduction**  
   
