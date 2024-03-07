@@ -1,4 +1,4 @@
-# Knowledge-Based-Recommendation  
+# Knowledge Based Recommendation  
   
 **Introduction**  
   
